@@ -1,0 +1,26 @@
+nav, aside, main {
+    float: left;
+}
+
+.container {
+    padding-left: 20em;
+    padding-right: 15em;
+}
+
+nav {
+    width: 20em;
+    margin-left: -20em;
+}
+
+main {
+    width: 100%;
+}
+
+aside {
+    width: 15em;
+    margin-right: -15em;
+}
+
+footer {
+    clear: left;
+}

@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    grid: max-content / 100%;
+}
+
+header, footer {
+    grid-column: 1 / 4;
+}
