@@ -1,8 +1,10 @@
-body {
+/* body {
     display: grid;
     grid: max-content / 100%;
+    align-items: center;
+    transform: translate(0%, 0%);
 }
 
 header, footer {
     grid-column: 1 / 4;
-}
+} */
