@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 
-html, body {
-    height: 0%;
+ html, body {
+    /* height: 0%; */
     margin: 0;
 }
 
@@ -13,10 +13,10 @@ h1 {
     text-align: center;
     font-family: 'Futura';
 }
-body {
+/* body {
     margin: 0;
     padding: 0;
-}
+} */
 .hero {
     position: absolute;
     width: 100vw;
@@ -65,33 +65,19 @@ body {
 }
 .hero-content {
     position: relative;
-    transform: translate(0%, 50%);
+   /* transform: translate(0%, 50%); */
 }
 
 
 
 .grid-item,
-header{
-    color: white;
-    background: #044BD9;
-    border: 1px solid #377EFF;
-    text-align: center;
-}
-main{
-    
-    color: white;
-    background: #044BD9;
-    border: 1px solid #377EFF;
-    text-align: center;
-    
-}
-nav,
-aside,
+header,
+main,
 footer {
     background: #044BD9;
     color: white;
     border: 1px solid #377EFF;
-    text-align: center;
+    text-align: center; 
 }
 
 a {
