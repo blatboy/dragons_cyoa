@@ -68,7 +68,17 @@ h1 {
     transform: translate(0%, 50%); 
 }
 
+article {
+    padding: 10px;
+}
 
+p {
+    font-family: 'Georgia', 'Times New Roman', 'Times', serif;
+    font-weight: 300;
+    text-align: left;
+    text-indent: 1em; 
+}
+    
 
 .grid-item,
 header,
