@@ -1,7 +1,7 @@
 * {
     font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
     font-weight: 600;
-    box-sizing: border-box;
+    box-sizing: border-box; 
 }
 
  html, body {
@@ -65,7 +65,7 @@ h1 {
 }
 .hero-content {
     position: relative;
-   /* transform: translate(0%, 50%); */
+    transform: translate(0%, 50%); 
 }
 
 
@@ -76,7 +76,7 @@ main,
 footer {
     background: #044BD9;
     color: white;
-    border: 1px solid #377EFF;
+    border: 1px solid #377EFF; 
     text-align: center; 
 }
 
